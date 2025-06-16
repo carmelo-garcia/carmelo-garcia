@@ -16,7 +16,15 @@ I am a Computer Engineering student at the University of A Coruña, pursuing a d
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/OCaml-EABF3A?style=for-the-badge&logo=ocaml&logoColor=white">
-  <img src="https://img.shields.io/badge/MATLAB-EABF3A?style=for-the-badge&logo=matlab&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+
 </span>
 
  
@@ -38,6 +46,17 @@ I am a Computer Engineering student at the University of A Coruña, pursuing a d
   <img src="https://img.shields.io/badge/Jupyter-DA5B0C?style=for-the-badge&logo=jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/Logisim-3F5B96?style=for-the-badge&logo=logisim&logoColor=white">
   <img src="https://img.shields.io/badge/PacketTracer-16B3D6?style=for-the-badge&logo=cisco&logoColor=white">
+  <img src="https://img.shields.io/badge/Nmap-7CA1CB?style=for-the-badge&logo=nmap&logoColor=white">
+  <img src="https://img.shields.io/badge/Wireshark-0081C9?style=for-the-badge&logo=wireshark&logoColor=white">
+  <img src="https://img.shields.io/badge/Metasploit-FF5722?style=for-the-badge&logo=metasploit&logoColor=white">
+  <img src="https://img.shields.io/badge/OWASP_ZAP-FF5722?style=for-the-badge&logo=owasp&logoColor=white">
+  <img src="https://img.shields.io/badge/Ettercap-FF6F61?style=for-the-badge&logo=ettercap&logoColor=white">
+  <img src="https://img.shields.io/badge/Medusa-0099CC?style=for-the-badge&logo=medusa&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white">
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white">
 
 </span>
 
