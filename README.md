@@ -7,9 +7,10 @@
 
 I am a Computer Engineering student at the University of A Coruña, pursuing a degree in Computer Science with a specialization in IT. I am particularly interested in security, continuously expanding my knowledge in both front-end and back-end development.
 
-***SKILLS***
 
-<h4>Languages</h4>
+***Languages***
+
+
 <span>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -24,7 +25,9 @@ I am a Computer Engineering student at the University of A Coruña, pursuing a d
 </span>
 
 
-<h4>Other Tools and Technologies</h4>
+***Other Tools and Technologies***
+
+
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -43,7 +46,7 @@ I am a Computer Engineering student at the University of A Coruña, pursuing a d
 
 </span>
 
-## Check out my Social Media
+***Check out my Social Media***
 
 <a href= "https://www.instagram.com/carmelo.27/?hl=es">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
