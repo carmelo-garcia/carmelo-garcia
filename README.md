@@ -5,7 +5,7 @@
 
 ***About me***
 
-I am a Computer Engineering student at the University of A Coruña, pursuing a degree in Computer Science with a specialization in IT. I am particularly interested in security, continuously expanding my knowledge in both front-end and back-end development. Currently, I work as a software developer at a company that creates systems for carpentry, where I enjoy learning and building new, productive, innovative, and creative solutions.
+I am a Computer Engineering student at the University of A Coruña, pursuing a degree in Computer Science with a specialization in IT. I am particularly interested in security, continuously expanding my knowledge in both front-end and back-end development.
 
 ***SKILLS***
 
